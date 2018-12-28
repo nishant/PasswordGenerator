@@ -17,7 +17,7 @@ Ruby v2.6.0
 
 ### Installing
 
-Have Ruby v2.6.0 installed on your machine [download](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+Have [Ruby v2.6.0](https://www.ruby-lang.org/en/documentation/installation/) installed on your machine 
 
 Clone this repository to a directory of your choosing via either command:
 
@@ -36,7 +36,7 @@ Run the script with `ruby pass_gen.rb`
 
 ## Available Methods
 
-View the source code for comments with more detailed explanation.
+View the [source code](https://github.com/nishant/PasswordGenerator/blob/master/pass_gen.rb) for comments with more detailed explanation.
 
 * Create a random password with `generate(password, rng)`
 
@@ -52,13 +52,15 @@ View the source code for comments with more detailed explanation.
 
 An example of the output file in which the passwords are stored looks like this:
 
+```
 NETFLIX               a&1}PuteG#R@$ris
 GMAIL                 {Ozuw]&tN8Rd%fRK
-SPOTIFY               ;\m;>A<HX3"F>*c8
+SPOTIFY               ;\m;>A<HX3"F>&ast;c8
 HULU                  o,G]@TbZ9YtKLCk{
 EPIC GAMES            vF^dbUUcFLL]/K)r
 REDDIT                go@kXZg'"KO'/E@+
 .....                 .....
+```
 
 ## Built With
 
