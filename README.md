@@ -2,8 +2,8 @@
 
 This is a simple ruby script that generates strong random passwords of a provided length.
 The passwords are stored in a text file of your choosing with along with the source (whatever the
-password logs you into). Methods are provided to generate both single and as well as 
-multiple passwords. The methods can be called with a passed in arguement or user input for the source(s) 
+password logs you into). Methods are provided to generate both single and multiple passwords. 
+The methods can be called with a passed in arguement or user input for the source(s) 
 
 ## Getting Started
 
