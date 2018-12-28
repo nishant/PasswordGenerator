@@ -55,7 +55,7 @@ An example of the output file in which the passwords are stored looks like this:
 ```
 NETFLIX               a&1}PuteG#R@$ris
 GMAIL                 {Ozuw]&tN8Rd%fRK
-SPOTIFY               ;\m;>A<HX3"F>&ast;c8
+SPOTIFY               ;m;>A<HX3"F>*;c8
 HULU                  o,G]@TbZ9YtKLCk{
 EPIC GAMES            vF^dbUUcFLL]/K)r
 REDDIT                go@kXZg'"KO'/E@+
